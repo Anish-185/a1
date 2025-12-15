@@ -1,4 +1,4 @@
 # a1
 demo repository
 <br>
-auhtor-anish
+auhtor-anish (student)
